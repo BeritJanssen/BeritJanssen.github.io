@@ -1,2 +1,5 @@
-# BeritJanssen.github.io
-Website
+# BeritJanssen
+
+I am a scientific programmer for the [Digital Humanities Lab](https://dig.hum.uu.nl/) (Utrecht University) and the [Amsterdam Music Lab](https://www.amsterdammusiclab.nl/) (University of Amsterdam). I studied Musicology and English Literature at the University of Hamburg, and Composition and Music Production at Anglia Ruskin University, Cambridge. After my MA in Hamburg, I moved to the Netherlands, where I did internships at [STEIM](https://steim.org/) and the [Digital Arts Lab](https://ckc-zoetermeer.nl/aanbod/digital-art-lab/) to deepen my interests in composition and music education.
+
+In 2012, I started my doctoral research at the Dutch [Meertens Institute](https://meertens.knaw.nl/en/) and the [Music Cognition Group](https://www.mcg.uva.nl/) of the University of Amsterdam, applying computational approaches to study melodic stability in the Meertens Intitute's [Dutch folk song collection](http://www.liederenbank.nl/), leading up to my doctorate in 2018. My dissertation, titled "Retained or Lost in Transmission? Analyzing and Predicting Stability in Dutch Folk Songs" can be found [here](https://www.illc.uva.nl/Research/Publications/Dissertations/DS-2018-01.text.pdf). Since 2017, I support other social sciences and humanities researchers to collect and analyse research data with web applications.
